@@ -1,0 +1,8 @@
+{
+  "name": "nomadit/nomad-theme-asa2018",
+  "description" : "shared theme component for other nomad themes - master stored on github",
+  "require": {
+    "nomadit/nomad" : "*",
+    "nomadit/nomad-theme-shared01" : "*"
+  }
+}
